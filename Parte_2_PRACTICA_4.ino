@@ -1,3 +1,15 @@
+/*
+Fundacion Kinal
+Centro Educativo Tecnico Laboral Kinal
+Quinto Perito
+Quinto Electronica
+Codigo Tecnico: EBSAV
+Curso: Taller de electronica digital y reparacion de computadoras I
+Practica 5 parte 2
+Dev: Profe. Alejandro Lopez Navas
+Fecha: 26 de mayo
+*/
+
 const int x = 2;
 const int y = 66;
 const int z[y] = {391.995, 391.995, 391.995, 311.127, 466.164, 391.995,
